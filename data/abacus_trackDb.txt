@@ -1,0 +1,20 @@
+track Abinitio_GALBA
+longLabel GALBA gene prediction
+shortLabel GALBA_annotation
+bigDataUrl https://zenodo.org/records/23138193/files/abacus_galba.bb
+type bigBed 3
+itemRgb On
+priority 9
+color 0,0,0
+visibility pack
+
+track MAF
+longLabel Multiple alignment of Cannabis sativa cultivars to Abacus
+shortLabel MAF
+bigDataUrl https://zenodo.org/records/23138193/files/abacus_maf.bb
+speciesOrder abacus cannbio cs10 dash finola jamlionF1 jlwild pink pkush torientalis malba
+type bigMaf
+priority 8
+color 0,0,255
+itemRgb On
+visibility full

@@ -1,0 +1,5 @@
+hub Csativa
+shortLabel Csativa
+longLabel Cannabis sativa abacus assembly
+genomesFile abacus_genomes.txt
+email scheben@cshl.edu

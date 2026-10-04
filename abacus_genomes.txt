@@ -1,0 +1,6 @@
+genome abacus
+trackDb data/abacus_trackDb.txt
+organism Cannabis sativa abacus
+description abacus
+twoBitPath https://zenodo.org/records/23138193/files/abacus.2bit
+defaultPos chr1:1-10000
